@@ -1,3 +1,6 @@
+# Description:
+#  Call kozakesan when some words related to him are mentioned.
+
 module.exports = (robot) ->
 
   robot.hear /((こ|コ|ｺ)+.?(ざ|ザ|ｻﾞ)+.?(け|ケ|ｹ)+.?(さ|サ|ｻ)+.?(ん|ン|ﾝ)+|(こ|コ|ｺ|小)+.?(酒|🍶)+.?(さ|サ|ｻ)+.?(ん|ン|ﾝ))+/i, (msg) ->
