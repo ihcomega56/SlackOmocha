@@ -9,3 +9,4 @@
 * http://qiita.com/KeitaMoromizato/items/8d56951f7e6fa57f9a93
 * http://qiita.com/musclemikiya/items/38586a08df799f6069bf
 * http://qiita.com/n0bisuke/items/12ce4df55a405a62b599
+* http://www.atotok.com/labo/ruby/20120725160759.html
