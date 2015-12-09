@@ -3,7 +3,7 @@
 cron = require('cron').CronJob
 module.exports = (robot) ->
   new cron '0 15,35,55 * * * 0-6', () =>
-    robot.send {room: "general"}, "寝る時間だ"
+    robot.send {room: "labo"}, "寝る時間だ"
   , null, true
 
   robot.hear /起きて！/i, (msg) ->
