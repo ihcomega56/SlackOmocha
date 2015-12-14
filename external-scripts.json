@@ -9,5 +9,5 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit",
-  "hubot-gmail-fetcher",
+  "hubot-gmail-fetcher"
 ]
